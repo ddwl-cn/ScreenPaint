@@ -1,0 +1,14 @@
+﻿  ScreenPaint.cpp
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(67): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(85): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(86): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(140): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(141): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(148): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+d:\gcc\c语言专用\screenpaint\screenpaint\screenpaint.cpp(149): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  ScreenPaint.vcxproj -> D:\gcc\C语言专用\ScreenPaint\x64\Debug\ScreenPaint.exe
+  ScreenPaint.vcxproj -> D:\gcc\C语言专用\ScreenPaint\x64\Debug\ScreenPaint.pdb (Partial PDB)
